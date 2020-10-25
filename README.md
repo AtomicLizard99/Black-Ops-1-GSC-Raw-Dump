@@ -6,3 +6,4 @@ I made this repo because i could never find a good dump on the web i hope this h
 No data for these files.
 .MENU
 .CSV
+.D3DBSP
